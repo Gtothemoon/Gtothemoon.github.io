@@ -21,4 +21,4 @@ Hi all, I am Ruonan Liu, currently a tenure-track associate professor in Departm
 
 My research focuses on Machine learning, Vision-language navigation and Fault diagnosis. Now I am serving as the Special Sessions Chair for the 23nd IEEE International Conference on Industrial Informatics (INDIN 2025), the Leading Guest Editor/ Associate Editor for three journals: IEEE Transactions on Industrial Cyber-Physical Systems, Sustainable Energy Technologies and Assessments, Frontiers in Artificial Intelligence. And I am the Technical Committee Member of IEEE Industrial Electronics Society. 
 
-<table><tr><td bgcolor="#87cefa"> Call for undergraduate/master/Ph.D. students and PostDocs! Interested parties please contact me: ruonan.liu@sjtu.edu.cn. </td></tr></table>
+<p style="background-color: #87cefa;"> Call for undergraduate/master/Ph.D. students and PostDocs! Interested parties please contact me: ruonan.liu@sjtu.edu.cn. </p>
