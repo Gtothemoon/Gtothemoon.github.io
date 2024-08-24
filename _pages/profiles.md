@@ -10,15 +10,98 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
+    image: Ruonan Liu.jpg
     content: about_ruonanliu.md
     image_circular: false # crops the image to make it circular
     more_info: 
+
+  - align: right
+    image: Xiuzhong Hu.jpg
+    content: about_xiuzhonghu.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
+  - align: right
+    image: Zihan Jiang .jpg
+    content: about_zihanjiang.md
+    image_circular: false # crops the image to make it circular
+    more_info:
+
+  - align: right
+    image: Haoyu Wei.jpg
+    content: about_haoyuwei.md
+    image_circular: false # crops the image to make it circular
+    more_info:
+
+  - align: right
+    image: Quanhu Zhang.jpg
+    content: about_quanhuzhang.md
+    image_circular: false # crops the image to make it circular
+    more_info:
 
   - align: right
     image: Zekang Li.jpg
     content: about_zekangli.md
     image_circular: false # crops the image to make it circular
     more_info: 
-    
+
+  - align: right
+    image: Ping Kong.jpg
+    content: about_pingkong.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
+  - align: right
+    image: Shuai Wu.jpg
+    content: about_shuaiwu.md
+    image_circular: false # crops the image to make it circular
+    more_info:
+
+  - align: right
+    image: Yingying Li.jpg
+    content: about_yingyingli.md
+    image_circular: false # crops the image to make it circular
+    more_info:
+
+  - align: right
+    image: Quanzhi Jiang.jpg
+    content: about_quanzhijiang.md
+    image_circular: false # crops the image to make it circular
+    more_info:
+
+  - align: right
+    image: Junzhi Wang.jpg
+    content: about_junzhiwang.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
+  - align: right
+    image: Yunfei Xie.jpg
+    content: about_yunfeixie.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
+  - align: right
+    image: Haochen Zhu.jpg
+    content: about_haochenzhu.md
+    image_circular: false # crops the image to make it circular
+    more_info:
+
+  - align: right
+    image: Tong Ge.jpg
+    content: about_tongge.md
+    image_circular: false # crops the image to make it circular
+    more_info:
+
+  - align: right
+    image: Hao Wang.jpg
+    content: about_haowangli.md
+    image_circular: false # crops the image to make it circular
+    more_info:
+
+  - align: right
+    image: Dong Xiao.jpg
+    content: about_dongxiao.md
+    image_circular: false # crops the image to make it circular
+    more_info:
 ---
