@@ -4,7 +4,7 @@ permalink: /Honors/
 title: Honors
 description: 
 nav: true
-nav_order: 8
+nav_order: 6
 ---
 
 <ul>
