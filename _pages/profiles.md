@@ -22,7 +22,7 @@ profiles:
     more_info: 
 
   - align: right
-    image: Zihan Jiang .jpg
+    image: Zihan Jiang.jpg
     content: about_zihanjiang.md
     image_circular: false # crops the image to make it circular
     more_info:
