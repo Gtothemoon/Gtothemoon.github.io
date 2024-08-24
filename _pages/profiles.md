@@ -40,7 +40,7 @@ profiles:
     more_info:
 
   - align: right
-    image: Zekang Li.jpg
+    image: Zekang Li.png
     content: about_zekangli.md
     image_circular: false # crops the image to make it circular
     more_info: 
