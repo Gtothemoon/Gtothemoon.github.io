@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /Group/
 title: Group
-description: "<p style=\"color:blue;\">Call for undergraduate\/master\/Ph.D. students and PostDocs. If you are interested in Industrial Cyber-Physical Systems and Intelligent unmanned system, welcome to join us: ruonan.liu@sjtu.edu.cn.</p>"
+description: "<p style=\"color:blue;\">Call for undergraduate/master/Ph.D. students and PostDocs. If you are interested in Industrial Cyber-Physical Systems and Intelligent unmanned system, welcome to join us: ruonan.liu@sjtu.edu.cn."
 nav: true
 nav_order: 7
 
