@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /Group/
+title: Group
+description: <span style="color:blue; white-space:nowrap;">Call for undergraduate/master/Ph.D. students and PostDocs. If you are interested in Industrial Cyber-Physical Systems and Intelligent unmanned system, welcome to join us: ruonan.liu@sjtu.edu.cn.</span>
 nav: true
 nav_order: 7
 
@@ -17,12 +17,5 @@ profiles:
       <p>555 your office number</p>
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      
 ---
