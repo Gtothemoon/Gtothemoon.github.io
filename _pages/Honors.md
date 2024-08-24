@@ -9,22 +9,22 @@ nav_order: 8
 
 <ul>
   <li>
-    <span style="color:blue; white-space:nowrap;">Runner-up Paper Award<span>, IJCAI-W 2024
+    <span style="color:blue; white-space:nowrap;">Runner-up Paper Award</span>, IJCAI-W 2024
   </li>
   <li>
-    <span style="color:blue; white-space:nowrap;">Best Paper Award Finalist<span>, IEEE ICARM 2024
+    <span style="color:blue; white-space:nowrap;">Best Paper Award Finalist</span>, IEEE ICARM 2024
   </li>
   <li>
-    <span style="color:red; white-space:nowrap;">Alexander von Humboldt Fellow<span>, 2022
+    <span style="color:red; white-space:nowrap;">Alexander von Humboldt Fellow</span>, 2022
   </li>
   <li>
-    <span style="color:red; white-space:nowrap;">the World’s Top 2% Scientists<span>, 2021, 2022, 2023, 2024
+    <span style="color:red; white-space:nowrap;">the World’s Top 2% Scientists</span>, 2021, 2022, 2023, 2024
   </li>
   <li>
-    <span style="color:red; white-space:nowrap;">the Young Elite Scientist<span> Sponsorship Program, 2022
+    <span style="color:red; white-space:nowrap;">the Young Elite Scientist</span> Sponsorship Program, 2022
   </li>
   <li>
-    <span style="color:blue; white-space:nowrap;">IEEE Outstanding Paper Award<span> for the IEEE TII (IF 11.7), 2021
+    <span style="color:blue; white-space:nowrap;">IEEE Outstanding Paper Award</span> for the IEEE TII (IF 11.7), 2021
   </li>
   <li>
     Media Report in IEEE IES News Homepage, 2021
