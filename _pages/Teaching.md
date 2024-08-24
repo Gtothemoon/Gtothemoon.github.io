@@ -7,4 +7,4 @@ nav: true
 nav_order: 6
 ---
 
-<span style="color:blue; white-space:nowrap;">Machine Learning<span>, Tianjin University, Spring 2023, Fall and Spring 2022, Fall 2021
+<span style="color:blue; white-space:nowrap;">Machine Learning</span>, Tianjin University, Spring 2023, Fall and Spring 2022, Fall 2021
