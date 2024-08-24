@@ -95,7 +95,7 @@ profiles:
 
   - align: right
     image: Hao Wang.jpg
-    content: about_haowangli.md
+    content: about_haowang.md
     image_circular: false # crops the image to make it circular
     more_info:
 
