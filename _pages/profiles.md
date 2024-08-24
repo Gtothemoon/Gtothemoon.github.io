@@ -4,7 +4,7 @@ permalink: /Group/
 title: Group
 description: If you are interested in Industrial Cyber-Physical Systems and Intelligent unmanned system, welcome to join us at ruonan.liu@sjtu.edu.cn.
 nav: true
-nav_order: 7
+nav_order: 4
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
