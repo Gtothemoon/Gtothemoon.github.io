@@ -6,7 +6,7 @@ description: If you are interested in Industrial Cyber-Physical Systems and Inte
 nav: true
 nav_order: 3
 
-profiles:
+profiles1:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
@@ -15,6 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
 
+profiles2:
   - align: right
     image: Xiuzhong Hu.jpg
     content: about_xiuzhonghu.md
@@ -33,6 +34,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info:
 
+profiles3:
   - align: right
     image: Quanhu Zhang.jpg
     content: about_quanhuzhang.md
@@ -75,6 +77,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
 
+profiles4:
   - align: right
     image: Yunfei Xie.jpg
     content: about_yunfeixie.md
@@ -93,6 +96,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info:
 
+profiles5:
   - align: right
     image: Hao Wang.jpg
     content: about_haowang.md
