@@ -9,12 +9,14 @@ nav_order: 3
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  <h1>Professor</h1>
   - align: right
     image: RuonanLiu.png
     content: about_ruonanliu.md
     image_circular: false # crops the image to make it circular
     more_info: 
 
+  <h1>PhD Students</h1>
   - align: right
     image: Xiuzhong Hu.jpg
     content: about_xiuzhonghu.md
@@ -33,6 +35,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info:
 
+  <h1>Master Students</h1>
   - align: right
     image: Quanhu Zhang.jpg
     content: about_quanhuzhang.md
@@ -75,6 +78,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
 
+  <h1>Undergraduate Students</h1>
   - align: right
     image: Yunfei Xie.jpg
     content: about_yunfeixie.md
@@ -93,6 +97,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info:
 
+  <h1>Alumnis</h1>
   - align: right
     image: Hao Wang.jpg
     content: about_haowang.md
