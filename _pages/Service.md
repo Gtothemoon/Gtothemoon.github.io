@@ -4,7 +4,7 @@ permalink: /Service/
 title: Service
 description: 
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 * Special Sessions Chair for the 23nd IEEE International Conference on Industrial Informatics (INDIN 2025)
